@@ -24,10 +24,8 @@
             borders of Chimaltenango, Escuintla and Sacatepéquez departments. <br>
             It sits about 16 kilometres (9.9 mi) west of Antigua, one of Guatemala's most famous cities and a tourist
             destination.<br>
-            It has erupted frequently since the Spanish conquest, most recently in June and November 2018. <br>
             Fuego is famous for being almost constantly active at a low level. Small gas and ash eruptions occur every
             15 to 20 minutes, but larger eruptions are rare.
-            Andesite and basalt lava types dominate, and recent eruptions have tended to be more mafic than older ones.
         </p>
         <a href="https://en.wikipedia.org/wiki/Volc%C3%A1n_de_Fuego">
             <p>Click here for more information about volcane Fuego</p>
