@@ -9,13 +9,12 @@
 <a href="../index.php">
     <h3>Home page</h3>
 </a>
-<header>
-    <a href="#description">
+<section>
+    <header>
         <h1>Fuego Volcano, Ancatenango, Nicaragua</h1>
         <img src="images/fuego.jpg" alt="fuego.jpg">
-    </a>
-</header>
-<section id="description">
+    </header>
+
     <article>
         <h3>Description</h3>
         <p>

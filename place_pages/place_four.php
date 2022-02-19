@@ -3,18 +3,18 @@
 <head>
     <meta charset="UTF-8">
     <title>Web Technologies Nahum</title>
-    <link rel="stylesheet" href="../style/general.css"></head>
+    <link rel="stylesheet" href="../style/general.css">
+</head>
 <body>
 <a href="../index.php">
     <h3>Home page</h3>
 </a>
-<header>
-    <a href="#description">
+<section>
+    <header>
         <h1>Dargavs Mountains, North Ossetia, Russia</h1>
         <img src="images/dargavs.jpg" alt="dargavs.jpg">
-    </a>
-</header>
-<section id="description">
+    </header>
+
     <article>
         <h3>Description</h3>
         <p>

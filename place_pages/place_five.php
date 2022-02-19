@@ -3,18 +3,18 @@
 <head>
     <meta charset="UTF-8">
     <title>Web Technologies Nahum</title>
-    <link rel="stylesheet" href="../style/general.css"></head>
+    <link rel="stylesheet" href="../style/general.css">
+</head>
 <body>
 <a href="../index.php">
     <h3>Home page</h3>
 </a>
-<header>
-    <a href="#description">
+<section>
+    <header>
         <h1>Guaita Towers, San Marino</h1>
         <img src="images/guaita.jpg" alt="guaita.jpg">
-    </a>
-</header>
-<section id="description">
+    </header>
+
     <article>
         <h3>Description</h3>
         <p>

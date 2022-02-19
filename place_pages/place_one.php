@@ -9,13 +9,12 @@
 <a href="../index.php">
     <h3>Home page</h3>
 </a>
-<header>
-    <a href="#description">
+<section>
+    <header>
         <h1>Caye Caulker, Belize</h1>
         <img src="images/cayecaulker.jfif" alt="cayecaulker.jfif">
-    </a>
-</header>
-<section>
+    </header>
+
     <article id="description">
         <h3>Description</h3>
         <p>
